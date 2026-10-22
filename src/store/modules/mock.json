@@ -1,0 +1,49 @@
+{
+  "checkIn-id": {
+    "name": "check in",
+    "items": {
+      "12/1/2019": [],
+      "12/2/2019": [],
+      "12/3/2019": [],
+      "12/4/2019": [],
+      "12/5/2019": [],
+      "12/6/2019": [
+        {
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxx1",
+          "startTime": "09:00",
+          "endTime": "10:00",
+          "workType": "Java",
+          "comment": "test"
+        },
+        {
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxx2",
+          "startTime": "time",
+          "endTime": "time",
+          "workType": "QA",
+          "comment": "test"
+        }
+      ],
+      "12/7/2019": []
+    }
+  },
+  "klic-id": {
+    "name": "klic",
+    "items": {
+      "12/1/2019": [],
+      "12/2/2019": [],
+      "12/3/2019": [],
+      "12/4/2019": [],
+      "12/5/2019": [],
+      "12/6/2019": [
+        {
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxx3",
+          "startTime": "time",
+          "endTime": "time",
+          "workType": ".Net",
+          "comment": "test"
+        }
+      ],
+      "12/7/2019": []
+    }
+  }
+}
